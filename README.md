@@ -1,6 +1,7 @@
 # ✨ Dev Doodle – Where Code Meets Creativity
 
-![Dev Doodle Banner](https://drive.google.com/file/d/1cftqFhmiewQmRNRpWALxXGABCRs5jNYH/view?usp=sharing)
+![devdoodle](https://github.com/user-attachments/assets/09afe377-85f1-46c1-ab6b-ebf3d451285b)
+
 
 > **Code. Sketch. Chat. Collaborate. All-in-One.**
 >
